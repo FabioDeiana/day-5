@@ -145,3 +145,12 @@ h2 {
   color: white;
   text-align: center;
 }
+
+hr {
+  color: white;
+  width: 40%;
+}
+
+#fine a {
+  color: white;
+}
